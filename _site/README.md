@@ -1,7 +1,7 @@
-d—h—b
+Ápice
 =======
 
-Grafista | Mexico
+Estudio Gráfico | CDMX, México
 
 Dependencias:
 * Jekyll: Generador de páginas estáticas

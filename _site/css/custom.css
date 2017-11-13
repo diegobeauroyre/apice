@@ -4,15 +4,16 @@ body {
   font-family: "Courier New", sans-serif;
   font-size: 12px;
   line-height: 1.42857143;
+  color: #fff;
 }
 
 body.landing {
-  background-color: #fff;
+  background-color: #000;
     width: 100%;
 }
 
 .section2 {
-    background-color: #fff;
+    background-color: #000;
     width: 100%;
     color: #333;
 
@@ -30,12 +31,12 @@ margin-left: auto;
 }
 
 body.page {
-  background-color: #fff;
+  background-color: #000;
 }
 
 h1 {
   font-size: 28px;
-    color: #333;
+    color: #fff;
     text-transform:uppercase;
     font-weight:1200;
 }
@@ -47,7 +48,7 @@ h2 {
 }
 
 h3 {
-color: #00e0b0;
+color: #fff;
 margin: 40px;
 font-weight: 900;
 font-size:24px;
@@ -55,7 +56,7 @@ font-size:24px;
 
 h4 {
   font-size: 14px;
-    color: #00000;
+    color: #fff;
     margin-top: 2em;
 }
 
@@ -75,7 +76,7 @@ text-align:left;
 }
 
 a:link, a:visited, a:hover, a:active {
-  color: #000000;
+  color: #ff0000;
   text-decoration: none;
 }
 
