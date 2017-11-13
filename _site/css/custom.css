@@ -20,7 +20,7 @@ body.landing {
 }
 
 .footer {
-   background-color: #fff;
+   background-color: #000;
     width: 100%;
     text-align:left;
     padding-right: 15px;
@@ -76,7 +76,7 @@ text-align:left;
 }
 
 a:link, a:visited, a:hover, a:active {
-  color: #ff0000;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -172,7 +172,7 @@ a:link, a:visited, a:hover, a:active {
 
 .navbar-inverse {
     margin: 0;
-    background-color: #ffffff;
+    background-color: #000;
 }
 
 .navbar-fixed-top {
@@ -180,8 +180,8 @@ a:link, a:visited, a:hover, a:active {
   border-width: 0 0 1px;
 }
 .navbar-inverse {
-  background-color: #ffffff;
-  border-color: #ffffff;
+  background-color: #000;
+  border-color: #0000;
 }
 
 .navbar-brand {
@@ -198,11 +198,11 @@ margin-left:40px;
 
 
 .navbar-inverse .navbar-brand {
-  color: #FFF;
+  color: #000;
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
-  color: #000000;
+  color: #fff;
   background-color: transparent;
 }
 
